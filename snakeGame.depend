@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1661976083 source:c:\users\abdullah othman\desktop\summer projects & studies\snakegame\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<vector>
+	<chrono>
+	<thread>
+	"Game.h"
+
+1661976125 c:\users\abdullah othman\desktop\summer projects & studies\snakegame\include\game.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<vector>
+	<chrono>
+	<thread>
+
+1661962904 source:c:\users\abdullah othman\desktop\summer projects & studies\snakegame\src\game.cpp
+	"Game.h"
+
